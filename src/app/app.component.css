@@ -1,0 +1,28 @@
+:host {
+    --content-padding: 10px;
+  }
+  header {
+    display: block;
+    height: 60px;
+    padding: var(--content-padding);
+    box-shadow: 0px 5px 25px var(--shadow-color);
+  }
+  .content {
+    padding: var(--content-padding);
+  }
+
+  .brand-name {
+    display: flex;
+    align-items: center;
+  }
+  
+  .primary-color {
+    color: #605DC8;
+    font-size: 24px;
+    display: flex;
+  }
+  
+  .primary-color i {
+    margin-right: 8px;
+  }
+  

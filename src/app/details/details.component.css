@@ -5,8 +5,8 @@
     width: 50%;
     object-fit: cover;
     border-radius: 30px;
-    float: right;
-  }
+    /* float: left;*/
+  } 
   
   .listing-heading {
     font-size: 48pt;
